@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Cashier.h
+
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Customer.h
+
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Node.h
+
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Queue.h
+new
+-
+Node.h
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Node.h
+
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Simulation.cpp
+iostream
+-
+fstream
+-
+Queue.h
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Queue.h
+Cashier.h
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Cashier.h
+Customer.h
+/Users/carlosburbano/Documents/programing /Data Structures I /assigment 11/Customer.h
+
