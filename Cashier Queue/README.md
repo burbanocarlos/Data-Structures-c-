@@ -1,0 +1,1 @@
+This is a cashier simulation using a queue in c++
